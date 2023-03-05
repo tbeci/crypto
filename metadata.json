@@ -1,7 +1,6 @@
 {
-  "name": "Duna Auto Coin",
-  "symbol": "DACN",
-  "description": "Just a test for how to name your token",
-  "image": "https://github.com/tbeci/crypto/blob/main/dcn.png",
-  "external_url": "https://dunaauto.hu"
-}
+    "name": "Lividium",
+    "symbol": "LVD",
+    "description": "Lividium token is a type of security token it works more like a traditional stock asset.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmXxD8UqLkYPYEHntY8P8Yexnxaw3qrLi5jJN2NvYcNYUZ"
+  }
